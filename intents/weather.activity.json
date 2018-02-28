@@ -1,0 +1,120 @@
+{
+  "id": "26ed0882-8fc2-4821-9bc8-fd6a182e7aca",
+  "name": "weather.activity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather.activity",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b5e94880-03e5-47f2-b69e-885efb3ea578",
+          "required": false,
+          "dataType": "@activity",
+          "name": "activity",
+          "value": "$activity",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "c5677883-5681-42fb-826a-f66c4af5694c",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "e97ab9f2-83dd-48f3-8640-caac2955cb41",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "zh-tw",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "pt",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504185268225,
+  "fallbackIntent": false,
+  "events": []
+}

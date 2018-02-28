@@ -1,0 +1,410 @@
+[
+  {
+    "id": "546c98d8-7c5f-4c79-84f3-ab9493230ae2",
+    "data": [
+      {
+        "text": "明天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "要不要",
+        "userDefined": false
+      },
+      {
+        "text": "手套",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "974630f9-dc8a-4f6a-93d6-29c23ae0b06a",
+    "data": [
+      {
+        "text": "外邊需要",
+        "userDefined": false
+      },
+      {
+        "text": "雨傘",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "974ed32a-4f9d-4672-bb9e-f7fe25379c5f",
+    "data": [
+      {
+        "text": "去外邊要穿",
+        "userDefined": false
+      },
+      {
+        "text": "外衣",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d994e09c-8e35-49b3-98b5-21c4ed2c5725",
+    "data": [
+      {
+        "text": "下星期一",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "外邊需要",
+        "userDefined": false
+      },
+      {
+        "text": "墨鏡",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bf1359f-14bc-49fb-9bfa-4ed11f118707",
+    "data": [
+      {
+        "text": "明天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "北京",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "我需要不需要",
+        "userDefined": false
+      },
+      {
+        "text": "雨衣",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "298dd004-cbfa-41ca-b959-fa71c907fba3",
+    "data": [
+      {
+        "text": "我需要不需要",
+        "userDefined": false
+      },
+      {
+        "text": "雨褲",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ba9fd57-a465-4782-8bbd-fa891e75cf7b",
+    "data": [
+      {
+        "text": "明天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "去外邊要帶",
+        "userDefined": false
+      },
+      {
+        "text": "雨傘",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94ffd696-516d-47a5-a212-03b07ed21483",
+    "data": [
+      {
+        "text": "去外邊要帶",
+        "userDefined": false
+      },
+      {
+        "text": "夾克",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4799105e-9169-4529-b9bf-5013394e869d",
+    "data": [
+      {
+        "text": "下個星期五",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "我在",
+        "userDefined": false
+      },
+      {
+        "text": "廈門",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "需要帶",
+        "userDefined": false
+      },
+      {
+        "text": "傘",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f12c7d47-f4a3-496d-be01-f27cc881a73b",
+    "data": [
+      {
+        "text": "下星期日",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "北京",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "外邊需要",
+        "userDefined": false
+      },
+      {
+        "text": "毛線帽",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8383c3da-80cd-48f3-aa5e-06c80b939a36",
+    "data": [
+      {
+        "text": "兩天後",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "我需要不需要",
+        "userDefined": false
+      },
+      {
+        "text": "雨褲",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "debf11e5-0a18-469c-b6e5-9f3b399be9c4",
+    "data": [
+      {
+        "text": "今天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "北京",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "去外邊要帶",
+        "userDefined": false
+      },
+      {
+        "text": "羊毛襪",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06e712c1-c33e-4bf4-a66f-f3fb7188ae42",
+    "data": [
+      {
+        "text": "我該穿",
+        "userDefined": false
+      },
+      {
+        "text": "外套",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f1be268-d2d7-43df-9717-7f1e084a6c9a",
+    "data": [
+      {
+        "text": "三月五號",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "北京",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "去外邊要穿",
+        "userDefined": false
+      },
+      {
+        "text": "外衣",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b8c5ffd-a794-4883-86f9-e78c5b5e0e16",
+    "data": [
+      {
+        "text": "今天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "去外邊要穿",
+        "userDefined": false
+      },
+      {
+        "text": "薄毛衣",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "a391a271-8bae-41a7-b5d9-94b8f0c4c882",
+    "data": [
+      {
+        "text": "水曜日",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3878dd99-6454-4e74-99ed-b345f747ebd3",
+    "data": [
+      {
+        "text": "じゃあ",
+        "userDefined": false
+      },
+      {
+        "text": "明日",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "は",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62c68204-45c6-4bd5-8187-2219a3c25222",
+    "data": [
+      {
+        "text": "今日",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "はどうなるの",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "815de02a-57fa-4e5f-a01e-c64bd2bfd29e",
+    "data": [
+      {
+        "text": "午後 5 時",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "には変わる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dd81439-c163-4e09-8d05-461bb2bb99e2",
+    "data": [
+      {
+        "text": "来週の月曜日",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "を調べて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7413fcad-79c7-4baf-8c87-fcbe99e0bb66",
+    "data": [
+      {
+        "text": "じゃあ",
+        "userDefined": false
+      },
+      {
+        "text": "来週",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "は",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0869967-51af-457f-9447-14a5e9fd91ec",
+    "data": [
+      {
+        "text": "じゃあ",
+        "userDefined": false
+      },
+      {
+        "text": "明日",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "はどう",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9adf6df1-eff4-4331-9efd-03f09572c4d4",
+    "data": [
+      {
+        "text": "土曜日",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "はどうですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bababb52-ed52-4eb6-beaf-383456323624",
+    "data": [
+      {
+        "text": "来週",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "を調べて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b22c1f8e-273b-45fc-a22a-88ff00fced7c",
+    "data": [
+      {
+        "text": "明日",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "はどう",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

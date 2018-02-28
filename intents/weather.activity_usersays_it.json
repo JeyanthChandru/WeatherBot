@@ -1,0 +1,228 @@
+[
+  {
+    "id": "92217904-6cbb-4592-a58c-d2960efdc893",
+    "data": [
+      {
+        "text": "il tempo è abbastanza buono per ",
+        "userDefined": false
+      },
+      {
+        "text": "giocare a frisbee",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " fuori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95a4a09b-e1d7-480b-a1a5-ff125c44eb9a",
+    "data": [
+      {
+        "text": "andare a ",
+        "userDefined": false
+      },
+      {
+        "text": "sciare",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Napoli",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abaf0915-e264-496b-98a4-b75b82c36db5",
+    "data": [
+      {
+        "text": "la temperatura è buona per ",
+        "userDefined": false
+      },
+      {
+        "text": "andare in bici",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d41591e-a784-46d4-9f55-21b1e3d20a05",
+    "data": [
+      {
+        "text": "posso ",
+        "userDefined": false
+      },
+      {
+        "text": "nuotare",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6654ab6-ffb5-4cbf-8a62-05feaa51ac2b",
+    "data": [
+      {
+        "text": "posso ",
+        "userDefined": false
+      },
+      {
+        "text": "nuotare",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cccdfbbb-92f9-4fde-a971-80da2e72bd7f",
+    "data": [
+      {
+        "text": "è una buona idea ",
+        "userDefined": false
+      },
+      {
+        "text": "fare un\u0027escursione",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "390d0fa7-1e27-4a57-8b20-c42964df16dd",
+    "data": [
+      {
+        "text": "posso andare a ",
+        "userDefined": false
+      },
+      {
+        "text": "sciare",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87cc55ed-a260-474f-a652-0ca33c6a179f",
+    "data": [
+      {
+        "text": "il tempo è buono per ",
+        "userDefined": false
+      },
+      {
+        "text": "sciare",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11b4eba0-8a13-4e09-a914-83814762aeaf",
+    "data": [
+      {
+        "text": "posso ",
+        "userDefined": false
+      },
+      {
+        "text": "nuotare",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Londra",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

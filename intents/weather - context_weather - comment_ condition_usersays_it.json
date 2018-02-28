@@ -1,0 +1,56 @@
+[
+  {
+    "id": "8961410d-f124-43b1-b872-9b2895ffa967",
+    "data": [
+      {
+        "text": "e la ",
+        "userDefined": false
+      },
+      {
+        "text": "pioggia",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11bf1b04-fd54-4aa8-905a-29b0cbcb2bc3",
+    "data": [
+      {
+        "text": "e le ",
+        "userDefined": false
+      },
+      {
+        "text": "nuvole",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0d44329-fe40-4f82-b0d8-fe70a7b633e9",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "nevicherà",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

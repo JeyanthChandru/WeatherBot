@@ -1,0 +1,324 @@
+[
+  {
+    "id": "b9a644e7-08e4-4d0d-871c-e684ae26f854",
+    "data": [
+      {
+        "text": "posso ",
+        "userDefined": false
+      },
+      {
+        "text": "correr",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "amanhã de manhã",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cce898c6-5d24-457d-bf28-a95f53c968d4",
+    "data": [
+      {
+        "text": "o tempo está bom para ",
+        "userDefined": false
+      },
+      {
+        "text": "surfar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      },
+      {
+        "text": " no ",
+        "userDefined": false
+      },
+      {
+        "text": "Rio de Janeiro",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5977cab3-934d-4fab-b3b1-bca14daacad9",
+    "data": [
+      {
+        "text": "posso ",
+        "userDefined": false
+      },
+      {
+        "text": "nadar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "amanhã",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " em ",
+        "userDefined": false
+      },
+      {
+        "text": "Lisboa",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "922b8ecc-465a-44e7-a3c0-f03b4bb6933e",
+    "data": [
+      {
+        "text": "pensa que o tempo está mau para ",
+        "userDefined": false
+      },
+      {
+        "text": "jogar frisbee",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c15e4a36-3242-4c96-9451-b563298a7565",
+    "data": [
+      {
+        "text": "o tempo está bom para ",
+        "userDefined": false
+      },
+      {
+        "text": "lutas de bolas de neve",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "835d1f5e-7299-4f77-a22f-33b795bc232a",
+    "data": [
+      {
+        "text": "devo ir ",
+        "userDefined": false
+      },
+      {
+        "text": "correr",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cb95179-6eeb-4a6c-a661-169bd1d01b58",
+    "data": [
+      {
+        "text": "o tempo vai estar bom para ",
+        "userDefined": false
+      },
+      {
+        "text": "jogar frisbee",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ao ar livre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be80e9ec-d3aa-49ee-b4f9-bf45aae97bbd",
+    "data": [
+      {
+        "text": "estou a planear ",
+        "userDefined": false
+      },
+      {
+        "text": "fazer esqui",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoje",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " vai ser possível",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc210525-ec13-4ebd-9037-21dd04794233",
+    "data": [
+      {
+        "text": "é boa ideia ",
+        "userDefined": false
+      },
+      {
+        "text": "fazer uma caminhada",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " agora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eeedc709-6626-4cd3-bf1d-9f9f09420414",
+    "data": [
+      {
+        "text": "o tempo está bom para ",
+        "userDefined": false
+      },
+      {
+        "text": "caminhar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7248fb3-884b-4299-837e-f3189d5258b9",
+    "data": [
+      {
+        "text": "posso ",
+        "userDefined": false
+      },
+      {
+        "text": "fazer surf",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c901a5b4-33e5-42b3-b7ba-bc1c2db93030",
+    "data": [
+      {
+        "text": "o tempo está suficientemente bom para ",
+        "userDefined": false
+      },
+      {
+        "text": "jogar frisbee",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " lá fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db037dee-75a0-414b-b943-a6bd73d7aeba",
+    "data": [
+      {
+        "text": "é uma boa ideia fazer uma ",
+        "userDefined": false
+      },
+      {
+        "text": "caminhada",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " agora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9265df53-bc86-4acf-97fb-ed012333b78c",
+    "data": [
+      {
+        "text": "pensa que o tempo está bom para ",
+        "userDefined": false
+      },
+      {
+        "text": "ciclismo",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

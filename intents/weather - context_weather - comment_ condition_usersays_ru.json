@@ -1,0 +1,38 @@
+[
+  {
+    "id": "94d6567d-acbe-49be-8fd3-baae5b31079b",
+    "data": [
+      {
+        "text": "и ",
+        "userDefined": false
+      },
+      {
+        "text": "дождь",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85e70e9d-6e88-47e9-9c00-3bd4f1947574",
+    "data": [
+      {
+        "text": "а ",
+        "userDefined": false
+      },
+      {
+        "text": "снег",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

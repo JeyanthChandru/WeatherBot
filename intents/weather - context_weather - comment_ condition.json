@@ -1,0 +1,101 @@
+{
+  "id": "08c820bd-fd65-4e92-a681-709ca3dcf07e",
+  "name": "weather - context:weather - comment: condition",
+  "auto": true,
+  "contexts": [
+    "weather"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#weather.intent_action",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "90ad5374-0c91-4be3-85ba-83b1afd82b8e",
+          "required": false,
+          "dataType": "@weather-condition",
+          "name": "condition",
+          "value": "$condition",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "zh-tw",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "pt",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1505877874,
+  "fallbackIntent": false,
+  "events": []
+}

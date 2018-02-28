@@ -1,0 +1,673 @@
+[
+  {
+    "id": "8e489f28-fc91-4b1b-bad7-f0e895bf7a94",
+    "data": [
+      {
+        "text": "明天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "在",
+        "userDefined": false
+      },
+      {
+        "text": "台北",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "会",
+        "userDefined": false
+      },
+      {
+        "text": "阴雨",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df034d66-dd02-4a30-8e2d-f600b2c09586",
+    "data": [
+      {
+        "text": "三天后",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "杭州",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "多云",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98ee944f-4a45-457d-a7c0-07322bf4e768",
+    "data": [
+      {
+        "text": "后天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "武汉",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "里面",
+        "userDefined": false
+      },
+      {
+        "text": "太阳",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72a361bb-875a-4ee0-8d92-3b2340bdda96",
+    "data": [
+      {
+        "text": "后天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "郑州",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      },
+      {
+        "text": "下雨",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c9b82f3-3258-4086-b6b7-62c353209415",
+    "data": [
+      {
+        "text": "今天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "会不会",
+        "userDefined": false
+      },
+      {
+        "text": "晴朗",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebf3f687-f7cb-46ac-bcd7-37dbc3582b02",
+    "data": [
+      {
+        "text": "今天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "会",
+        "userDefined": false
+      },
+      {
+        "text": "烟雾",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9a490b1-6aa7-4d5b-8a9f-f52ef209e4b5",
+    "data": [
+      {
+        "text": "明天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "阵雪",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fea2e709-1ad9-4bc5-9c47-d318598bdf5b",
+    "data": [
+      {
+        "text": "今天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "风暴",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14c0e0e1-c140-467f-84f2-73058d5db93a",
+    "data": [
+      {
+        "text": "今天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "会不会",
+        "userDefined": false
+      },
+      {
+        "text": "降雨",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db5d8c78-7845-4bad-b53e-75077a3ee807",
+    "data": [
+      {
+        "text": "五天后",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "广州",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      },
+      {
+        "text": "会不会",
+        "userDefined": false
+      },
+      {
+        "text": "雷暴",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8abdd277-aa76-493e-b5de-0550fdaa46fb",
+    "data": [
+      {
+        "text": "两个星期后",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "宁波",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      },
+      {
+        "text": "里面会不会",
+        "userDefined": false
+      },
+      {
+        "text": "下雨",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cadc70e-58cf-4628-bf83-44d448c41835",
+    "data": [
+      {
+        "text": "十月三号",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "沈阳",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "会",
+        "userDefined": false
+      },
+      {
+        "text": "下雨",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6ee1d2f-0e38-4503-9ed8-79d69e4d65da",
+    "data": [
+      {
+        "text": "天津",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "里面会不会",
+        "userDefined": false
+      },
+      {
+        "text": "风暴",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3fce5c9c-cbef-4302-aa49-a24b3f07aede",
+    "data": [
+      {
+        "text": "一月一号",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "天",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "气",
+        "userDefined": false
+      },
+      {
+        "text": "晴朗",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b139020-ae36-4e79-838c-4da601d4d5a3",
+    "data": [
+      {
+        "text": "稍后",
+        "userDefined": false
+      },
+      {
+        "text": "晚上",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "会",
+        "userDefined": false
+      },
+      {
+        "text": "下雨",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfe61643-b1c4-46c9-9a88-03516e24f9b4",
+    "data": [
+      {
+        "text": "今天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "下雨",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18f7d6aa-c57b-4832-8571-d4076a52614b",
+    "data": [
+      {
+        "text": "两天前",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "冻雨",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6191f918-8246-4841-ad01-c1715d52efa9",
+    "data": [
+      {
+        "text": "明天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "会不会",
+        "userDefined": false
+      },
+      {
+        "text": "雷雨",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9fb46d1-be73-4f2b-9b7d-76d1a99afefc",
+    "data": [
+      {
+        "text": "苏州",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "里面",
+        "userDefined": false
+      },
+      {
+        "text": "多风",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28d058f0-9cc0-447e-b77c-0e6e32d306c9",
+    "data": [
+      {
+        "text": "一个星期以后",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "在",
+        "userDefined": false
+      },
+      {
+        "text": "上海",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      },
+      {
+        "text": "雪域",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f4b87e2-e435-48aa-808b-63a86b01c1c8",
+    "data": [
+      {
+        "text": "北京",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      },
+      {
+        "text": "里面会不会",
+        "userDefined": false
+      },
+      {
+        "text": "阴雨",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4364d002-971f-4cc4-a5c0-29c7a7491fa6",
+    "data": [
+      {
+        "text": "明天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "青岛",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      },
+      {
+        "text": "会不会",
+        "userDefined": false
+      },
+      {
+        "text": "刮风",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "888676ac-d9b1-4a0a-bf74-2ecef81b5583",
+    "data": [
+      {
+        "text": "明天",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "冰冻小雨",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": "吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

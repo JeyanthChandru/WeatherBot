@@ -1,0 +1,804 @@
+[
+  {
+    "id": "1041795b-f399-4618-ad9e-dcd3631af3e3",
+    "data": [
+      {
+        "text": "сегодня",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " подходящая погода для ",
+        "userDefined": false
+      },
+      {
+        "text": "прогулки",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e600d3e-a8bf-4993-b235-debc8b22116c",
+    "data": [
+      {
+        "text": "сейчас хорошая погода для ",
+        "userDefined": false
+      },
+      {
+        "text": "пробежки",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e11f609d-b472-42d3-b9b1-4b2b02db4c7a",
+    "data": [
+      {
+        "text": "подходящая ли на улице погода для ",
+        "userDefined": false
+      },
+      {
+        "text": "езды на горном велосипеде",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "109c7c44-6426-4a26-9d91-a655869ff085",
+    "data": [
+      {
+        "text": "виндсерфинг",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "Пхукете",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " погода то что надо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54720e13-0c3c-4b4e-97d4-1550a4bccc21",
+    "data": [
+      {
+        "text": "пробежка",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " этим ",
+        "userDefined": false
+      },
+      {
+        "text": "вечером",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee86f5c7-823f-4b27-bfe3-b21c0a53658b",
+    "data": [
+      {
+        "text": "стоит ли ",
+        "userDefined": false
+      },
+      {
+        "text": "идти в поход",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "эти выходные",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Москва",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1393a7f-d31f-4469-945b-2a659925e340",
+    "data": [
+      {
+        "text": "хорошая погода для ",
+        "userDefined": false
+      },
+      {
+        "text": "серфинга",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77a155e2-cff3-45b4-a72e-822a16af1aae",
+    "data": [
+      {
+        "text": "достаточно ли хороша погода для езды на ",
+        "userDefined": false
+      },
+      {
+        "text": "велосипеде",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0868337-9293-4bdc-9d4a-4e6a8fa6422e",
+    "data": [
+      {
+        "text": "думаешь погода не подходит для игры в ",
+        "userDefined": false
+      },
+      {
+        "text": "бадминтон",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85523b61-4088-495e-a3cf-cb94db85a139",
+    "data": [
+      {
+        "text": "сегодня",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " хорошая погода для ",
+        "userDefined": false
+      },
+      {
+        "text": "прогулки",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74732c00-e8aa-4eaf-a203-0993ea180bfe",
+    "data": [
+      {
+        "text": "хотим ",
+        "userDefined": false
+      },
+      {
+        "text": "понаблюдать за птицами",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "сегодня",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "Бостоне",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "328247b3-3e7e-4a82-8105-b73349e93602",
+    "data": [
+      {
+        "text": "достаточно ли тепло для ",
+        "userDefined": false
+      },
+      {
+        "text": "игр",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " на улице",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db4e6e80-9ff2-4e15-9b6e-5d785b7c5786",
+    "data": [
+      {
+        "text": "думаешь достаточно тепло для ",
+        "userDefined": false
+      },
+      {
+        "text": "велопрогулки",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "51040e22-d5ac-46c8-b603-440cb8cd5e1d",
+    "data": [
+      {
+        "text": "могу ли покататься на ",
+        "userDefined": false
+      },
+      {
+        "text": "сноуборде",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59f32bd1-a7d9-4186-85dd-6cd16b52814a",
+    "data": [
+      {
+        "text": "стоит ли идти на ",
+        "userDefined": false
+      },
+      {
+        "text": "пробежку",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54bc1497-8285-4851-971a-f6fcff246b92",
+    "data": [
+      {
+        "text": "смогу ли я ",
+        "userDefined": false
+      },
+      {
+        "text": "пойти в поход",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8e35ee9-a49d-4f75-b0e2-9d7d50399b39",
+    "data": [
+      {
+        "text": "подходит ли погода для ",
+        "userDefined": false
+      },
+      {
+        "text": "прогулки",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f17edd1-d3ad-48bf-9b36-bd5ea2c5dd16",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "прогуляться",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " по ",
+        "userDefined": false
+      },
+      {
+        "text": "Мадриду",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1344767-8fe2-4093-90bb-93b423b44912",
+    "data": [
+      {
+        "text": "стоит ли ",
+        "userDefined": false
+      },
+      {
+        "text": "идти в поход",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "сейчас",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f085be8-a0f4-4412-b938-d4b5f4bdf023",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "прогуляться",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " как там погода",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "5457974d-7a7a-4bb6-b756-2e4d8fc251d9",
+    "data": [
+      {
+        "text": "достаточно ли тепло чтобы пойти ",
+        "userDefined": false
+      },
+      {
+        "text": "поплавать",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13832522-7607-4fe8-8f51-694fbc1a134a",
+    "data": [
+      {
+        "text": "велопрогулка",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " по ",
+        "userDefined": false
+      },
+      {
+        "text": "Москве",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " стоит ли",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf8378be-94b5-47fa-b800-fefd79544314",
+    "data": [
+      {
+        "text": "будет ли холодно в эту ",
+        "userDefined": false
+      },
+      {
+        "text": "пятницу",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " хотим ",
+        "userDefined": false
+      },
+      {
+        "text": "поиграть в снежки",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfa9c2a3-4918-4806-8d3b-224f781e378c",
+    "data": [
+      {
+        "text": "хорошая погода для ",
+        "userDefined": false
+      },
+      {
+        "text": "осмотра достопримечательностей",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8371365-5f62-4b07-8713-06bf275b6328",
+    "data": [
+      {
+        "text": "стоит ли ехать в ",
+        "userDefined": false
+      },
+      {
+        "text": "Вену",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "кататься на лыжах",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e878cc4-48e4-448a-a305-4296c7a23aed",
+    "data": [
+      {
+        "text": "рафтинг",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "Майами",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "этим вечером",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "172b7db2-52c7-47e9-9e61-f716ac58cd9d",
+    "data": [
+      {
+        "text": "будет ли достаточно тепло чтобы ",
+        "userDefined": false
+      },
+      {
+        "text": "пойти за грибами",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "эту пятницу",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Новосибирск",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0332dcef-e1e1-4fca-809a-21a09a9c1548",
+    "data": [
+      {
+        "text": "погода то что надо для ",
+        "userDefined": false
+      },
+      {
+        "text": "похода",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9255b2a1-1648-4b8d-b6f2-a183f291cda0",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "пойти в поход",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " на улице тепло",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e291406a-72fc-45e9-aa1a-1ce1ae2f68da",
+    "data": [
+      {
+        "text": "собираюсь ",
+        "userDefined": false
+      },
+      {
+        "text": "сегодня",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "кататься на лыжах",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " получится",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9d97227e-0d63-4030-81cb-8677951fdcff",
+    "data": [
+      {
+        "text": "можно ",
+        "userDefined": false
+      },
+      {
+        "text": "поплавать",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c2ba896-c2b2-4be4-893e-f833be0d315c",
+    "data": [
+      {
+        "text": "можно ли ",
+        "userDefined": false
+      },
+      {
+        "text": "играть в снежки",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa8a528f-a1b0-46b4-b461-f78605788086",
+    "data": [
+      {
+        "text": "хорошо ты думаешь погода подходит для ",
+        "userDefined": false
+      },
+      {
+        "text": "похода",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99feebbd-fd6c-4e26-8c20-9c7bdb3dadb8",
+    "data": [
+      {
+        "text": "вечером",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " собираемся на ",
+        "userDefined": false
+      },
+      {
+        "text": "сафари",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " погода подходит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
