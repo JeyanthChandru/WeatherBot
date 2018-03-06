@@ -1,0 +1,38 @@
+{
+  "id": "ff95307f-fce6-4d58-a9fc-d65fb69f6e50",
+  "name": "weather.units",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather.units",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4177acc8-292f-4072-b430-60355b217ab9",
+          "required": false,
+          "dataType": "@unit-temperature",
+          "name": "unit",
+          "value": "$unit",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510347669,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "fa91d982-0e0e-40a9-b1f0-e5e5db608032",
+    "data": [
+      {
+        "text": "что за погода в ",
+        "userDefined": false
+      },
+      {
+        "text": "Риме",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a51fd05-9d6c-4b3e-b3a9-5330110b1340",
+    "data": [
+      {
+        "text": "покажи что за погода будет ",
+        "userDefined": false
+      },
+      {
+        "text": "завтра",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "Берлине",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77792a59-03dd-4805-a649-308c40bc8f55",
+    "data": [
+      {
+        "text": "погода ",
+        "userDefined": false
+      },
+      {
+        "text": "сегодня",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18b17ea4-8c60-4849-b877-82454b5d6a21",
+    "data": [
+      {
+        "text": "погода",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "202dc1be-5342-4c2d-8513-02f2e812cf2b",
+    "data": [
+      {
+        "text": "погода сейчас ",
+        "userDefined": false
+      },
+      {
+        "text": "Амстердам",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c65cd083-ac4f-48a2-8bc2-4f7395e412a0",
+    "data": [
+      {
+        "text": "погода ",
+        "userDefined": false
+      },
+      {
+        "text": "Дубаи",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2364ee1e-a6a3-42ee-a70a-3e2a25eb5d29",
+    "data": [
+      {
+        "text": "что с температурой в ",
+        "userDefined": false
+      },
+      {
+        "text": "Лондоне",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8137c79b-6f81-440e-bd1e-ccb39c822bf3",
+    "data": [
+      {
+        "text": "расскажи мне про погоду на ",
+        "userDefined": false
+      },
+      {
+        "text": "следующей неделе",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "633821d6-ea91-46d8-b022-5e662f25565a",
+    "data": [
+      {
+        "text": "что за погода ожидается в ",
+        "userDefined": false
+      },
+      {
+        "text": "Минске",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72804b5e-f436-4bf1-97b8-8f214abade43",
+    "data": [
+      {
+        "text": "погода в ",
+        "userDefined": false
+      },
+      {
+        "text": "Сиэтл",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d785bdad-acbf-44db-b898-072021778582",
+    "data": [
+      {
+        "text": "какой будет погода",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e81e0e9-8cf7-4978-bc73-ae539cabbaa7",
+    "data": [
+      {
+        "text": "что за погода ",
+        "userDefined": false
+      },
+      {
+        "text": "завтра",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "Нью-Йорке",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e22442f-9808-4ff6-8d5b-40b8122b490d",
+    "data": [
+      {
+        "text": "погода в ",
+        "userDefined": false
+      },
+      {
+        "text": "Новосибирске",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edd7347a-a251-4588-aaf9-d8592cd80616",
+    "data": [
+      {
+        "text": "какой будет погода в ",
+        "userDefined": false
+      },
+      {
+        "text": "выходные",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c7da80b-5250-4a10-8156-2308a16f922b",
+    "data": [
+      {
+        "text": "погода ",
+        "userDefined": false
+      },
+      {
+        "text": "Милан",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "среда",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "429c29e9-6a00-4c5d-9627-c1c69b7bdf4c",
+    "data": [
+      {
+        "text": "какая погода ",
+        "userDefined": false
+      },
+      {
+        "text": "завтра",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "Барселоне",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "384bcc96-494d-4021-b147-9cc1ac5fd0fa",
+    "data": [
+      {
+        "text": "мне нужна погода на ",
+        "userDefined": false
+      },
+      {
+        "text": "22 июля",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfa0c379-0dee-40e2-9b97-94db48d22ffa",
+    "data": [
+      {
+        "text": "какую погоду ожидают ",
+        "userDefined": false
+      },
+      {
+        "text": "на этой неделе",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4df4396d-73af-43db-9724-5169fc4ba2b0",
+    "data": [
+      {
+        "text": "что ожидается в ",
+        "userDefined": false
+      },
+      {
+        "text": "Москве",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " погода",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2e2b1978-ab7d-481f-bc06-6d7367b98d92",
+    "data": [
+      {
+        "text": "погода завтра ",
+        "userDefined": false
+      },
+      {
+        "text": "Санкт-Петербург",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2193bf42-c574-4452-99e7-d4a510250426",
+    "data": [
+      {
+        "text": "прогноз погоды ",
+        "userDefined": false
+      },
+      {
+        "text": "Москва",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98e15d8c-373d-464b-8620-26ea4201194b",
+    "data": [
+      {
+        "text": "прогноз погоды",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9efd8e61-7ebb-47c7-873c-fe139840f30e",
+    "data": [
+      {
+        "text": "погода для города ",
+        "userDefined": false
+      },
+      {
+        "text": "Париж",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11674e03-aa01-48e6-b57d-174f80609307",
+    "data": [
+      {
+        "text": "прогноз погоды на ",
+        "userDefined": false
+      },
+      {
+        "text": "завтра",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Брюссель",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c21863bc-c4cd-4971-8e5e-32940d062371",
+    "data": [
+      {
+        "text": "прогноз погоды в ",
+        "userDefined": false
+      },
+      {
+        "text": "Денвере",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e13221c6-1be9-4f24-97b6-67ea8575ba52",
+    "data": [
+      {
+        "text": "что за погодка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea4e8c1e-28a6-443a-b130-6d609bca5484",
+    "data": [
+      {
+        "text": "какая погода в ",
+        "userDefined": false
+      },
+      {
+        "text": "Москве",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "этим утром",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fee9bfcb-80c0-4b68-b1cd-8cab1c1d2006",
+    "data": [
+      {
+        "text": "покажи температуру в ",
+        "userDefined": false
+      },
+      {
+        "text": "Риме",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " по ",
+        "userDefined": false
+      },
+      {
+        "text": "Фаренгейту",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9b0c70f-c94c-4d6d-9f8c-e0afb4dc8eb6",
+    "data": [
+      {
+        "text": "покажи погоду на ",
+        "userDefined": false
+      },
+      {
+        "text": "сегодня",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49ef1551-a084-4859-9054-ff5693fd2e74",
+    "data": [
+      {
+        "text": "погода ",
+        "userDefined": false
+      },
+      {
+        "text": "этим вечером",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17ed7768-97f4-45f6-a070-eb47e5b6aa76",
+    "data": [
+      {
+        "text": "завтрашняя",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " погода",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c10a568d-c5c4-4169-8715-948debccef8f",
+    "data": [
+      {
+        "text": "покажи погоду в градусах ",
+        "userDefined": false
+      },
+      {
+        "text": "Фаренгейта",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b68881b-735e-427f-988f-143d162f3fbb",
+    "data": [
+      {
+        "text": "какая ",
+        "userDefined": false
+      },
+      {
+        "text": "завтра",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " будет погода",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25d2e21c-eb9c-40bf-9257-dd2054d1a9ae",
+    "data": [
+      {
+        "text": "погода в ",
+        "userDefined": false
+      },
+      {
+        "text": "Москве",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "через 5 дней",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "708b7441-d13a-4b92-826c-4ed92310277f",
+    "data": [
+      {
+        "text": "какая сейчас погода в ",
+        "userDefined": false
+      },
+      {
+        "text": "Екатеринбурге",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "602c1de3-c96c-4bf0-8b6d-8e5e2ab4461c",
+    "data": [
+      {
+        "text": "прогноз погоды для ",
+        "userDefined": false
+      },
+      {
+        "text": "Канады",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "следующая неделя",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6076569-e9db-48ba-b463-f8739fe5ff68",
+    "data": [
+      {
+        "text": "покажи мне погоду",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da375c14-717c-4ac5-87aa-34c5f1ac744e",
+    "data": [
+      {
+        "text": "хотел бы узнать погоду",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cf56bc8-2632-4a7e-b2f5-cdd9e74be7ad",
+    "data": [
+      {
+        "text": "что сейчас за погода в ",
+        "userDefined": false
+      },
+      {
+        "text": "Керале",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2760fb7-26db-4234-bac2-ce8d2a65cde7",
+    "data": [
+      {
+        "text": "прогноз погоды ",
+        "userDefined": false
+      },
+      {
+        "text": "на вторник",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26a342ac-92c2-4f77-b1e9-182df1147db2",
+    "data": [
+      {
+        "text": "хотелось бы знать что за погода в ",
+        "userDefined": false
+      },
+      {
+        "text": "Мадриде",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "284154d2-f997-4aaa-a49f-e588a8b5c053",
+    "data": [
+      {
+        "text": "температура в ",
+        "userDefined": false
+      },
+      {
+        "text": "Париже",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " в градусах ",
+        "userDefined": false
+      },
+      {
+        "text": "Цельсия",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ea42099-ab33-4a05-847d-1f341a4cae3d",
+    "data": [
+      {
+        "text": "найди погоду в ",
+        "userDefined": false
+      },
+      {
+        "text": "Бангалоре",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c3bec41-4ea3-4715-8d1a-23e0b1a4885e",
+    "data": [
+      {
+        "text": "какой была погода ",
+        "userDefined": false
+      },
+      {
+        "text": "3 марта",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "Ялте",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29941785-f29b-436c-a49c-0c78dde94751",
+    "data": [
+      {
+        "text": "погода ",
+        "userDefined": false
+      },
+      {
+        "text": "завтра",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "Москве",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7f69cda0-34c1-4ddb-a72a-455e1ff5ecac",
+    "data": [
+      {
+        "text": "погода ",
+        "userDefined": false
+      },
+      {
+        "text": "Ростова-на-Дону",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a5deda5-1769-48ec-82b9-cb85d49bad9e",
+    "data": [
+      {
+        "text": "теперь прочти прогноз погоды для ",
+        "userDefined": false
+      },
+      {
+        "text": "Тамбова",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d67fec8-1c63-48c0-ae91-8b9816bc2ed9",
+    "data": [
+      {
+        "text": "что там на улице с погодой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df038802-55a0-4411-abe0-b1ef33907e73",
+    "data": [
+      {
+        "text": "что за погода будет в ",
+        "userDefined": false
+      },
+      {
+        "text": "Токио",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "следующей неделе",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8718e9ca-91d4-4e34-adcf-49c9b25a5a8b",
+    "data": [
+      {
+        "text": "погода в ",
+        "userDefined": false
+      },
+      {
+        "text": "Бруклине",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "Цельсиях",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32bbdc0f-d40d-4b66-8460-c27f964dbe19",
+    "data": [
+      {
+        "text": "скажи мне что с погодой ",
+        "userDefined": false
+      },
+      {
+        "text": "Париж",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

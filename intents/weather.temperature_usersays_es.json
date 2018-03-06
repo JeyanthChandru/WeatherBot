@@ -1,0 +1,579 @@
+[
+  {
+    "id": "224af269-416e-44e0-979f-ff94b4019f42",
+    "data": [
+      {
+        "text": "hace mucho ",
+        "userDefined": false
+      },
+      {
+        "text": "frío",
+        "alias": "temperature",
+        "meta": "@temperature",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3686789-4ddf-4db3-b200-f03aa71c5071",
+    "data": [
+      {
+        "text": "hará ",
+        "userDefined": false
+      },
+      {
+        "text": "frío",
+        "alias": "temperature",
+        "meta": "@temperature",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta noche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4b58a30-f748-4646-addd-af420b1387dc",
+    "data": [
+      {
+        "text": "cómo será la temperatura ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2086703d-1b59-4d97-aaef-e104bd420efc",
+    "data": [
+      {
+        "text": "qué temperatura hará el ",
+        "userDefined": false
+      },
+      {
+        "text": "17 de noviembre",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Barcelona",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c17f0d61-7cc3-41e6-a35b-b10c6a252d91",
+    "data": [
+      {
+        "text": "qué ",
+        "userDefined": false
+      },
+      {
+        "text": "calor",
+        "alias": "temperature",
+        "meta": "@temperature",
+        "userDefined": true
+      },
+      {
+        "text": " hace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57e6ede0-545f-4650-8dea-e346bbbfa8c6",
+    "data": [
+      {
+        "text": "hará ",
+        "userDefined": false
+      },
+      {
+        "text": "frío",
+        "alias": "temperature",
+        "meta": "@temperature",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy por la noche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "849c23f8-7cc2-4c8b-ba18-e0a75fe31345",
+    "data": [
+      {
+        "text": "qué temperatura hace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3830c3ff-906c-4ca7-b1f5-ada59bc2d3c3",
+    "data": [
+      {
+        "text": "temperaturas en ",
+        "userDefined": false
+      },
+      {
+        "text": "Salamanca",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Fahrenheit",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d6a906c-39b7-4237-a361-81e8607f1d56",
+    "data": [
+      {
+        "text": "qué temperatura hace en ",
+        "userDefined": false
+      },
+      {
+        "text": "París",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9d23aaf-6ae6-422a-8189-8b3ff806d294",
+    "data": [
+      {
+        "text": "sabes si hace mucho ",
+        "userDefined": false
+      },
+      {
+        "text": "frío",
+        "alias": "temperature",
+        "meta": "@temperature",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "diciembre",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscú",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccf769c2-4dcd-4341-a366-8ca733daffa7",
+    "data": [
+      {
+        "text": "las temperaturas en ",
+        "userDefined": false
+      },
+      {
+        "text": "Quito",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Centígrados",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e300516a-c14c-4184-aa22-f43ceb8fcb5c",
+    "data": [
+      {
+        "text": "hace",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "calor",
+        "alias": "temperature",
+        "meta": "@temperature",
+        "userDefined": true
+      },
+      {
+        "text": " afuera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35f027e6-25b7-4d23-8767-87f6b73a1083",
+    "data": [
+      {
+        "text": "dime qué temperaturas habrá ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " en grados ",
+        "userDefined": false
+      },
+      {
+        "text": "Fahrenheit",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "3af2e324-517e-4ecc-b4ae-f8681e11930a",
+    "data": [
+      {
+        "text": "a qué temperatura estamos ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Valladolid",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c11eb9e-2464-4544-8c62-6d329cc03c49",
+    "data": [
+      {
+        "text": "qué tan ",
+        "userDefined": false
+      },
+      {
+        "text": "frío",
+        "alias": "temperature",
+        "meta": "@temperature",
+        "userDefined": true
+      },
+      {
+        "text": " está afuera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "781099ff-760e-40c3-bf9b-ae591fafa409",
+    "data": [
+      {
+        "text": "hará mucho ",
+        "userDefined": false
+      },
+      {
+        "text": "calor",
+        "alias": "temperature",
+        "meta": "@temperature",
+        "userDefined": true
+      },
+      {
+        "text": " mañana en ",
+        "userDefined": false
+      },
+      {
+        "text": "Londres",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66057af8-c68c-41ab-8b0b-b1f8f3ea8c95",
+    "data": [
+      {
+        "text": "temperaturas en ",
+        "userDefined": false
+      },
+      {
+        "text": "Lima",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " en grados ",
+        "userDefined": false
+      },
+      {
+        "text": "Centígrados",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08aa949c-7335-4576-9ee8-b6345f49ad9e",
+    "data": [
+      {
+        "text": "sabes si ahora hace ",
+        "userDefined": false
+      },
+      {
+        "text": "frío",
+        "alias": "temperature",
+        "meta": "@temperature",
+        "userDefined": true
+      },
+      {
+        "text": " fuera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c065cbe-c4ee-4f8e-b830-a9bd923af38a",
+    "data": [
+      {
+        "text": "muéstrame las temperaturas para el ",
+        "userDefined": false
+      },
+      {
+        "text": "22 de agosto",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f9f5503-8e09-4fac-94a3-dbad20bd9343",
+    "data": [
+      {
+        "text": "dime la temperatura en ",
+        "userDefined": false
+      },
+      {
+        "text": "Barcelona",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " para mañana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d6064b0-928b-4ab3-8a2a-c6d1e6a961ad",
+    "data": [
+      {
+        "text": "dime si está ",
+        "userDefined": false
+      },
+      {
+        "text": "caluroso",
+        "alias": "temperature",
+        "meta": "@temperature",
+        "userDefined": true
+      },
+      {
+        "text": " afuera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc8bddf8-362c-4463-ac13-164a9212f688",
+    "data": [
+      {
+        "text": "temperaturas en ",
+        "userDefined": false
+      },
+      {
+        "text": "Ibiza",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "agosto",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d51d0159-169c-4a68-b548-52bd7f0c451c",
+    "data": [
+      {
+        "text": "comprueba las temperaturas en ",
+        "userDefined": false
+      },
+      {
+        "text": "Mallorca",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " para la ",
+        "userDefined": false
+      },
+      {
+        "text": "semana que viene",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

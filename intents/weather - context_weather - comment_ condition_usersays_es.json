@@ -1,0 +1,74 @@
+[
+  {
+    "id": "da11924e-b1b6-469e-9d0e-59839573de08",
+    "data": [
+      {
+        "text": "va a ",
+        "userDefined": false
+      },
+      {
+        "text": "nevar",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d77bbd11-2046-47f2-987e-7d2c4032100e",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "lluvias",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "005fbed5-428f-4105-9b55-b9947e13c49b",
+    "data": [
+      {
+        "text": "habrá ",
+        "userDefined": false
+      },
+      {
+        "text": "nubes",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fe00dc2-68de-4834-b490-0752d4769fc0",
+    "data": [
+      {
+        "text": "estará ",
+        "userDefined": false
+      },
+      {
+        "text": "soleado",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

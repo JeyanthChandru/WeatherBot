@@ -1,0 +1,182 @@
+[
+  {
+    "id": "75aa41c2-9dc2-4618-aea8-4d4eb371f839",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "sábado",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "010efa33-140e-4081-be56-5d4ba5bb324b",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "hoje",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8204a4a-c54b-473f-b720-a1b74ad30bd4",
+    "data": [
+      {
+        "text": "e durante a ",
+        "userDefined": false
+      },
+      {
+        "text": "próxima semana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84a1403d-ed84-499b-9f48-eaaf3ba8f667",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "neste fim de semana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cdbf69f7-2546-4da4-81e0-6950ade4ca7f",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "amanhã",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0d625216-18bf-4b2e-9086-80767a204f5b",
+    "data": [
+      {
+        "text": "isso mudará às ",
+        "userDefined": false
+      },
+      {
+        "text": "17h",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6701481-6699-4e4d-bf37-d3bc7a3057b8",
+    "data": [
+      {
+        "text": "e no ",
+        "userDefined": false
+      },
+      {
+        "text": "sábado",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3491abfb-1413-427b-95e4-b64db396d435",
+    "data": [
+      {
+        "text": "na ",
+        "userDefined": false
+      },
+      {
+        "text": "quarta-feira",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f190f17b-c848-4d4b-ba62-7d875c341f1a",
+    "data": [
+      {
+        "text": "verificar para a ",
+        "userDefined": false
+      },
+      {
+        "text": "próxima segunda-feira",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d424e96-d519-41be-a128-5d622e6f8cde",
+    "data": [
+      {
+        "text": "verificar ",
+        "userDefined": false
+      },
+      {
+        "text": "próxima semana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

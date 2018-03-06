@@ -1,0 +1,111 @@
+[
+  {
+    "id": "9eec02a0-42c7-4f86-9a78-056d4bc63a4d",
+    "data": [
+      {
+        "text": "et ",
+        "userDefined": false
+      },
+      {
+        "text": "ce week end",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "78108b81-99a5-4750-bd6a-50c9ffd1f5c3",
+    "data": [
+      {
+        "text": "ce dimanche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " aussi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd4be58b-016e-4af9-9855-222b128f782e",
+    "data": [
+      {
+        "text": "et",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "demain",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "819881b4-8e79-4394-9c17-9fa4c2040754",
+    "data": [
+      {
+        "text": "et ",
+        "userDefined": false
+      },
+      {
+        "text": "dimanche",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f130f63-2e18-4bbd-94c7-ce3909ffe974",
+    "data": [
+      {
+        "text": "après-demain",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acda0a43-7367-4261-b1ab-c1029ebf39e1",
+    "data": [
+      {
+        "text": "maintenant ",
+        "userDefined": false
+      },
+      {
+        "text": "lundi",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

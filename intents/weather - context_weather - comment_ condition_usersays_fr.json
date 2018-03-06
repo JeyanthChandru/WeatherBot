@@ -1,0 +1,56 @@
+[
+  {
+    "id": "4a076d06-cf56-443b-8ab1-9d2cc3ffbcdd",
+    "data": [
+      {
+        "text": "du ",
+        "userDefined": false
+      },
+      {
+        "text": "soleil",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03defb67-42b4-4613-be48-e596f0d4b3af",
+    "data": [
+      {
+        "text": "et la ",
+        "userDefined": false
+      },
+      {
+        "text": "neige",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ded2c68-e8ea-4845-8e4a-987b1a1325ea",
+    "data": [
+      {
+        "text": "la ",
+        "userDefined": false
+      },
+      {
+        "text": "pluie",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

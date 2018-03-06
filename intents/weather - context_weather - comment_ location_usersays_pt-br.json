@@ -1,0 +1,160 @@
+[
+  {
+    "id": "23c6e44b-18c7-47d5-b4f6-61a756e72115",
+    "data": [
+      {
+        "text": "e quanto a ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c86a8f7-4100-4cd3-9060-7fb988045d26",
+    "data": [
+      {
+        "text": "pode verificar ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "41cc10ea-585f-456e-9e68-70d786f03ecf",
+    "data": [
+      {
+        "text": "Moscou",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fc71fcb-42e1-4662-92ac-bce2b92f184f",
+    "data": [
+      {
+        "text": "você pode verificar ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4515212-ca03-46a9-a05b-3dc6a402e9aa",
+    "data": [
+      {
+        "text": "e quanto a ",
+        "userDefined": false
+      },
+      {
+        "text": "Oakland",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "303f4b09-8a16-4894-a7e2-dd3aee6eaec3",
+    "data": [
+      {
+        "text": "agora em ",
+        "userDefined": false
+      },
+      {
+        "text": "Aspen",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eed88844-efb9-4707-b13f-2ac05427d104",
+    "data": [
+      {
+        "text": "e quanto a ",
+        "userDefined": false
+      },
+      {
+        "text": "São Francisco",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd25e7d2-b9fa-4122-8f3c-367ed779d91b",
+    "data": [
+      {
+        "text": "e quanto a ",
+        "userDefined": false
+      },
+      {
+        "text": "Aspen",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee26315e-43fb-44bb-9100-682c8475f4cd",
+    "data": [
+      {
+        "text": "e em ",
+        "userDefined": false
+      },
+      {
+        "text": "Londres",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
